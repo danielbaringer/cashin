@@ -1,0 +1,60 @@
+﻿
+@model Ame.Gaas.Admin.Models.ObjetivoView
+@{
+    ViewBag.Title = "AME - Gaas Admin";
+}
+
+<h2>Listagem de objetivo</h2>
+
+<div class="row ">
+    <div class="col-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        &nbsp;
+                    </th>
+                    <th scope="col">
+                        Nome
+                    </th>
+                    <th scope="col">
+                        Data de inicialização
+                    </th>
+                    <th scope="col">
+                        Data de expiração
+                    </th>
+                    <th scope="col">
+                        Status
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.LObjetivo)
+                {
+                <tr>
+                    <th scope="row">
+                        @Html.ActionLink("Editar",
+                            "Edit",   // <-- Método
+                            "Objetivo",  // <-- Controller .
+                            new { obj.id }, // <-- Argumento.
+                            new { @class = "btn btn-primary" }
+                            )
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => obj.nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => obj.dataIniciar)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => obj.dataExpiracao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => obj.ativo)
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

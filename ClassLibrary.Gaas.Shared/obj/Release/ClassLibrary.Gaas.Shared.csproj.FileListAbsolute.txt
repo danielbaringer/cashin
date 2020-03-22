@@ -1,0 +1,16 @@
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\bin\Release\ClassLibrary.Gaas.Shared.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\bin\Release\ClassLibrary.Gaas.Shared.pdb
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csprojAssemblyReference.cache
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csproj.CoreCompileInputs.cache
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.pdb
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\bin\Release\MongoDB.Bson.xml
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csproj.CopyComplete
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\bin\Release\ClassLibrary.Gaas.Shared.dll
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\bin\Release\ClassLibrary.Gaas.Shared.pdb
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\bin\Release\MongoDB.Bson.xml
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csprojAssemblyReference.cache
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csproj.CoreCompileInputs.cache
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.csproj.CopyComplete
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.dll
+D:\PROJETOS_2020\AME-GAAS-ATUAL-01-03-2020-20h25\ClassLibrary.Gaas.Shared\obj\Release\ClassLibrary.Gaas.Shared.pdb

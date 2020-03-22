@@ -1,0 +1,16 @@
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\ClassLibrary.Gaas.MongoDb.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\ClassLibrary.Gaas.MongoDb.pdb
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Bson.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.Core.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.Legacy.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Bson.xml
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.xml
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.Core.xml
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\bin\Release\MongoDB.Driver.Legacy.xml
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\obj\Release\ClassLibrary.Gaas.MongoDb.csprojAssemblyReference.cache
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\obj\Release\ClassLibrary.Gaas.MongoDb.csproj.CoreCompileInputs.cache
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\obj\Release\ClassLibrary.Gaas.MongoDb.csproj.CopyComplete
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\obj\Release\ClassLibrary.Gaas.MongoDb.dll
+D:\PROJETOS_2020\Ame-Gaas-CashIn\ame-gaas-cashin\ClassLibrary.Gaas.MongoDb\obj\Release\ClassLibrary.Gaas.MongoDb.pdb

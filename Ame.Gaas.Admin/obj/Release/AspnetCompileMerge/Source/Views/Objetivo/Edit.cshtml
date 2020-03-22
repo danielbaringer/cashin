@@ -1,0 +1,96 @@
+﻿@model Ame.Gaas.Admin.Models.ObjetivoView
+@{
+    ViewBag.Title = "AME - Gaas Admin";
+}
+
+<h2>Editando Objetivo</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.id)
+
+    <div class="form-group">
+        @Html.Label("Nome", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.nome, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Data para iniciar", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.dataIniciar, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.dataIniciar, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Data de expiração", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.dataExpiracao, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.dataExpiracao, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Ativo", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div class="checkbox">
+                @Html.EditorFor(model => model.ativo)
+                @Html.ValidationMessageFor(model => model.ativo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <hr />
+    <div class="form-group">
+
+        <table class="table tblMiniGames">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col">Nome</th>
+                    <th scope="col">Permanência Jogo (segundos)</th>
+                    <th scope="col">Cash Pgto</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.listaMiniGames)
+                {
+                    <tr>
+                        <th>
+                            @Html.DisplayFor(modelItem => obj.nome)
+                        </th>
+                        <td>
+                            @Html.DisplayFor(modelItem => obj.parametroObjCompletado)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => obj.vlrCashIn)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => obj.ativo)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+        <hr />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>

@@ -1,0 +1,12 @@
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\bin\Debug\ClassLibrary.Gaas.Shared.dll
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\bin\Debug\ClassLibrary.Gaas.Shared.pdb
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.csprojAssemblyReference.cache
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.dll
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.pdb
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\bin\Debug\MongoDB.Bson.dll
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\bin\Debug\MongoDB.Bson.xml
+C:\DANIELBARINGER\GAAS\Ame.Gaas.Admin\Ame.Gaas.Admin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.csproj.CopyComplete
+C:\DANIELBARINGER\ame-gaas-cashin\ClassLibrary.Gaas.Shared\bin\Debug\ClassLibrary.Gaas.Shared.dll
+C:\DANIELBARINGER\ame-gaas-cashin\ClassLibrary.Gaas.Shared\bin\Debug\ClassLibrary.Gaas.Shared.pdb
+C:\DANIELBARINGER\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.dll
+C:\DANIELBARINGER\ame-gaas-cashin\ClassLibrary.Gaas.Shared\obj\Debug\ClassLibrary.Gaas.Shared.pdb
